@@ -39,11 +39,4 @@ Open your browser and navigate to \`http://localhost:3000\` to see the applicati
 This project is licensed under the MIT License.
 " > README.md
 
-# Add the README.md file to the staging area
-git add README.md
-
-# Commit the README.md file
-git commit -m "Add README file"
-
-# Push the changes to GitHub
-git push origin master
+git 
