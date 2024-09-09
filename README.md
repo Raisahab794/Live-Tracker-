@@ -39,4 +39,3 @@ Open your browser and navigate to \`http://localhost:3000\` to see the applicati
 This project is licensed under the MIT License.
 " > README.md
 
-git 
