@@ -14,3 +14,8 @@ html,body{
 }
 
 
+.custom-icon {
+    font-size: 24px; /* Adjust the font size as needed */
+    text-align: center;
+    line-height: 1;
+}
