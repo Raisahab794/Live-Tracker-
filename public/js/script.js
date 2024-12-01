@@ -49,7 +49,7 @@ socket.on('receiveLocation', function(data) {
 const circle = L.circle([0, 0], {
     color: 'red',
     fillColor: '#f03',
-    fillOpacity: 0.5,
+    fillOpacity: 0.4,
     radius: 500
 }).addTo(map);
 
